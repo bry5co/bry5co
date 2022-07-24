@@ -11,5 +11,5 @@ Soy Ecuatoriano tengo 21 años, soy estudiante de la Universidad Tecnica de Amba
 # ⚒️ Mis Proyectos:
 de momento no tengo 💔😪
 # 🌐 Como me puedes Encontrar:
-Puedes hablar conmigo por: ![imagen_7](https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579586-yumminkysocialmedia21_83091.png) [FACEBOOK](https://www.facebook.com/bryanignacio.obandochavez)
-tambien pueder ver mi contenido en: ![image_8](https://user-images.githubusercontent.com/105674552/180628959-d8a829c0-edcf-4725-9afe-f2b22e6ceb79.png) [INSTAGRAM](https://www.instagram.com/bry5co/)
+Puedes hablar conmigo por: [FACEBOOK](https://www.facebook.com/bryanignacio.obandochavez)
+tambien pueder ver mi contenido en: [INSTAGRAM](https://www.instagram.com/bry5co/)
