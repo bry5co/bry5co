@@ -22,4 +22,4 @@ de momento no tengo 💔😪
 
 - Una aspiracion es llegar a programar para empresas de juegos
 
-                                                  ![imagen_9](https://cdn.memegenerator.es/imagenes/memes/full/0/36/363267.jpg)
+![imagen_9](https://cdn.memegenerator.es/imagenes/memes/full/0/36/363267.jpg)
