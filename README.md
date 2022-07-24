@@ -1,7 +1,7 @@
-👋 Hi, I’m Bryan Silva
-I am a backend developer living in Ecuador, I have been developing professionally since 2019. I have mainly worked on projects with python and mongo. I also consider myself passionate about technology, that's why I want to learn a bit everyday.
+###👋 Hola mi nombre es Bryan Obando
+tengo 21 años, soy de la ciudad de Ambato, y soy estudiante de la Universidad Tecnica de Ambato
 
-💻 Some technologies I use:
+###💻 Some technologies I use:
                       
 
-⚒️ My projects:
+###⚒️ My projects:
