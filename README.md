@@ -14,3 +14,10 @@ de momento no tengo 💔😪
 > Puedes hablar conmigo por: [FACEBOOK](https://www.facebook.com/bryanignacio.obandochavez)
 
 > tambien pueder ver mi contenido en: [INSTAGRAM](https://www.instagram.com/bry5co/)
+
+# 📓 Otros datos:
+- Si tienes alguna pregunta mis redes estan arriba ☝️ 
+
+- Soy Gamer de LOL 🎮
+
+- Una aspiracion es llegar a programar para empresas de juegos
