@@ -1,3 +1,4 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 # 👋 Hola mi nombre es Bryan Obando
 Soy Ecuatoriano tengo 21 años, soy estudiante de la Universidad Tecnica de Ambato, graduado de bachiller y proximo ingeniero en software. 
 
@@ -13,7 +14,29 @@ de momento no tengo 💔😪
 # 🌐 Como me puedes Encontrar:
 > Puedes hablar conmigo por: [FACEBOOK](https://www.facebook.com/bryanignacio.obandochavez)
 
-> tambien pueder ver mi contenido en: [INSTAGRAM](https://www.instagram.com/bry5co/)
+> tambien pueder ver mi contenido en: [INSTAGRAM]([https://www.instagram.com/bry5co/](https://www.instagram.com/bry.5co/profilecard/?igsh=M2RsOGU3OHE1OW54))
+# Contribuciones en proyectos
+![](https://github-contributor-stats.vercel.app/api?username=bry5co&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bry5co&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry5co&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+
+
+### Reproduciendo en Spotify 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31pjsbyhdgbjxpraym4g53qxlfim?si=3ecd1b01c7774db0)
 
 # 📓 Otros datos:
 - Si tienes alguna pregunta mis redes estan arriba ☝️ 
