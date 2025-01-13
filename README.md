@@ -43,32 +43,35 @@ Soy ecuatoriano, tengo 21 años y soy estudiante de la **Universidad Técnica de
 </p>
 
 # ⚒️ Mis proyectos:
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/bry5co/ITutiShop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bry5co&repo=ITutiShop" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ArielTonato/PaginaCorp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArielTonato&repo=PaginaCorp" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AlexiP18/GestionEventosBackend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosBackend" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AlexiP18/GestionEventosFrontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosFrontend" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/bry5co/ITutiShop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bry5co&repo=ITutiShop" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ArielTonato/PaginaCorp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArielTonato&repo=PaginaCorp" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AlexiP18/GestionEventosBackend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosBackend" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AlexiP18/GestionEventosFrontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosFrontend" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h2 align="center">Contribuciones en proyectos</h2>
 <div align="center">
