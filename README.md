@@ -1,4 +1,7 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino">
+</div>
+
 
 # 👋 Hola, mi nombre es Bryan Obando
 Soy ecuatoriano, tengo 21 años y soy estudiante de la **Universidad Técnica de Ambato**. Soy graduado de bachiller y próximo ingeniero en software.
