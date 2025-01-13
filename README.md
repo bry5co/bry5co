@@ -44,17 +44,37 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
 </p>
 
 # ⚒️ Mis proyectos:
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/bry5co/ITutiShop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bry5co&repo=ITutiShop" />
-        </a>
-      </td> 
-    </tr>
-  </table>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
+      <h3 align="center" style="color: #2c3e50; font-size: 1.5rem; margin-bottom: 15px;">
+        ITutiShop
+      </h3>
+      <p align="center" style="margin-bottom: 20px; font-weight: bold; color: #7f8c8d;">
+        <em>(Programador)</em>
+      </p>
+      <br>
+      <div style="text-align: center;">
+  <a href="https://ibb.co/7zrdpxM">
+    <img src="https://i.ibb.co/H2GfPLw/tuti.jpg" alt="tuti" border="0">
+  </a>
 </div>
+      <br>
+      <div align="center">
+        <a align="center" href="https://github.com/bry5co/ITutiShop" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+               alt="Repositorio del Proyecto" 
+               style="margin-bottom: 15px;">
+        </a>
+      </div>
+      <p style="text-align: justify; font-size: 1rem; line-height: 1.6; color: #34495e;">
+        iTutiShop es una plataforma de comercio electrónico diseñada para facilitar la compra y venta de productos de manera rápida, segura y eficiente. Su objetivo principal es proporcionar una experiencia de usuario intuitiva y moderna tanto para compradores como para vendedores, integrando herramientas que optimizan el proceso de gestión de inventarios, transacciones y envíos.
+
+La plataforma está dirigida a pequeñas y medianas empresas (PyMEs) que buscan digitalizar sus negocios, así como a consumidores interesados en acceder a una amplia variedad de productos desde la comodidad de sus hogares.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center">Contribuciones en proyectos</h2>
