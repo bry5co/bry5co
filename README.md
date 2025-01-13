@@ -51,24 +51,7 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
         <a href="https://github.com/bry5co/ITutiShop">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bry5co&repo=ITutiShop" />
         </a>
-      </td>
-      <td>
-        <a href="https://github.com/ArielTonato/PaginaCorp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArielTonato&repo=PaginaCorp" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/AlexiP18/GestionEventosBackend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosBackend" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlexiP18/GestionEventosFrontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=GestionEventosFrontend" />
-        </a>
-      </td>
+      </td> 
     </tr>
   </table>
 </div>
