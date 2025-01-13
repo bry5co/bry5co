@@ -4,7 +4,7 @@
 
 
 # 👋 Hola, mi nombre es Bryan Obando
-Soy ecuatoriano, tengo 21 años y soy estudiante de la **Universidad Técnica de Ambato**. Soy graduado de bachiller y próximo ingeniero en software.
+Soy ecuatoriano, tengo 23 años y soy estudiante de la **Universidad Técnica de Ambato**. Estudio en la Facultade **FISEI** Soy graduado de bachiller y próximo ingeniero en software.
 
 <table>
   <tr>
