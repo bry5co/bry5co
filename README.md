@@ -47,7 +47,8 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
 - Trabajo en Equipo
 - Desarrollador full stack
 - Facil adaptación a lenguajes de programación
-- bBuscar soluciones a problemas dificiles
+- Buscar soluciones a problemas dificiles
+- Desarrollo Web y Movil
 
 # ⚒️ Mis proyectos:
 <table style="width: 100%; border-collapse: collapse;">
