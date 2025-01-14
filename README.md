@@ -32,7 +32,7 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
 
 
 ## 🎯 Objetivos:
-- Mejorar mis habilidades en **Desarrollo Backend** y **DevOps**.
+- Mejorar mis habilidades en **Desarrollo FronEnd** y **DevOps**.
 - Contribuir a proyectos de **código abierto** y mejorar mi presencia en la comunidad.
 - Desarrollar soluciones **web** y **móviles** que generen un impacto positivo.
 
@@ -42,6 +42,12 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,firebase,github,html,java,js,mysql,nodejs,postman,vscode&perline=14" />
   </a>
 </p>
+
+## 🎯 Aptitudes:
+- Trabajo en Equipo
+- Desarrollador full stack
+- Facil adaptación a lenguajes de programación
+- bBuscar soluciones a problemas dificiles
 
 # ⚒️ Mis proyectos:
 <table style="width: 100%; border-collapse: collapse;">
