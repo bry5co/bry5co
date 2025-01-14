@@ -40,6 +40,8 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,firebase,github,html,java,js,mysql,nodejs,postman,vscode&perline=14" />
+    <br>
+    en todos los campos el conocimiento es Basico ya que me enuentro en proceso de aprendizaje
   </a>
 </p>
 
