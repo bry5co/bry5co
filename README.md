@@ -4,7 +4,6 @@
   # 👋 ¡Hola! Soy Bryan Ignacio Obando Chavez
   **Ingeniero en Software** | Especializado en Desarrollo Backend y Automatización con IA
   
-
 </div>
 
 ---
