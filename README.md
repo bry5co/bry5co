@@ -4,7 +4,7 @@
   # 👋 ¡Hola! Soy Bryan Ignacio Obando Chavez
   **Ingeniero en Software** | Especializado en Desarrollo Backend y Automatización con IA
   
-  [![Sitio Web](https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/)
+
 </div>
 
 ---
