@@ -1,96 +1,92 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" width="350">
+
+  # 👋 ¡Hola! Soy Bryan Ignacio Obando Chavez
+  **Ingeniero en Software** | Especializado en Desarrollo Backend y Automatización con IA
+  
+  [![Sitio Web](https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/)
 </div>
 
+---
 
-# 👋 Hola, mi nombre es Bryan Ignacio Obando Chavez
-Soy ecuatoriano, tengo 25 años y soy graduado de la **Universidad Técnica de Ambato**, Facultad de la **FISEI** en **Ingeniero en Software**
-# 👋 Perfil en pagina Web:
-https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
-<table>
-  <tr>
-    <td>
-      <h2>📓 Otros datos sobre mí:</h2>
-      <ul>
-        <li>Soy <strong>programador Full Stack</strong>.</li>
-        <li>Apasionado por la <strong>programación</strong> y el <strong>desarrollo de software</strong>.</li>
-        <li>Actualmente me encuentro en la fase de aprendizaje y práctica de tecnologías <strong>web</strong> y <strong>móviles</strong>.</li>
-        <li>Me encanta <strong>resolver problemas</strong> y crear soluciones innovadoras para mejorar la <strong>experiencia de usuario</strong>.</li>
-        <li>Una de mis aspiraciones es llegar a <strong>programar para empresas de juegos</strong>.</li>
-        <li>Quiero <strong>automatizar todo tipo de procesos</strong> para ayudar a cualquier comunidad.</li>
-      </ul>
-    </td>
-    </tr>
-</table>
+### 📓 Sobre mí
 
+Soy Ingeniero en Software graduado de la Universidad Técnica de Ambato (FISEI). Me especializo como desarrollador **Full Stack con un fuerte enfoque en Backend**. Me apasiona el diseño de arquitecturas robustas, la optimización de bases de datos y la automatización de procesos mediante la integración de inteligencia artificial para resolver problemas complejos del mundo real.
 
-## 🎯 Objetivos:
-- Mejorar mis habilidades en **Desarrollo FronEnd** y **DevOps**.
-- Contribuir a proyectos de **código abierto** y mejorar mi presencia en la comunidad.
-- Desarrollar soluciones **web** y **móviles** que generen un impacto positivo.
+* 🎯 **Enfoque actual:** Construcción de APIs escalables, microservicios y optimización de flujos de trabajo.
+* 🤖 **Intereses:** Inteligencia Artificial generativa, arquitectura de software y, a largo plazo, el desarrollo de sistemas en la industria del gaming.
+* 🚀 **Filosofía:** Si un proceso se repite más de dos veces de forma manual, es candidato obligatorio a ser automatizado.
 
-<h2 align="center">💻 Tecnologías que uso:</h2>
+---
+
+### 💻 Tecnologías & Herramientas
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,firebase,github,html,java,js,mysql,nodejs,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mysql,docker,firebase,html,css,git,github,vscode,postman,java&perline=14" alt="Mis Tecnologías" />
   </a>
 </p>
 
-## 🎯 Aptitudes:
-- Trabajo en Equipo
-- Desarrollador full stack
-- Facil adaptación a lenguajes de programación
-- Buscar soluciones a problemas dificiles
-- Desarrollo Web y Movil
+* **Backend & DB:** Node.js, Express, Prisma, PostgreSQL, MySQL, Firebase.
+* **DevOps & Entornos:** Docker, Git, GitHub.
 
-# ⚒️ Mis proyectos:
+---
+
+### ⚒️ Proyectos Destacados
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
-      <h3 align="center" style="color: #2c3e50; font-size: 1.5rem; margin-bottom: 15px;">
-        ITutiShop
+    <!-- Proyecto 1: Tesis -->
+    <td style="width: 50%; padding: 20px; background-color: transparent; border: 1px solid #ddd; border-radius: 8px; vertical-align: top;">
+      <h3 align="center" style="color: #2c3e50; font-size: 1.3rem; margin-bottom: 10px;">
+        🚀 SanTIC Education Automation
       </h3>
-      <p align="center" style="margin-bottom: 20px; font-weight: bold; color: #7f8c8d;">
-        <em>(Programador)</em>
+      <p align="center" style="margin-bottom: 15px; font-weight: bold; color: #7f8c8d;">
+        <em>Proyecto de Fin de Carrera (Tesis)</em>
       </p>
-      <br>
-      <div style="text-align: center;">
-  <a href="https://ibb.co/7zrdpxM">
-    <img src="https://i.ibb.co/H2GfPLw/tuti.jpg" alt="tuti" border="0">
-  </a>
-</div>
+      <p style="text-align: justify; font-size: 0.95rem; line-height: 1.6;">
+        Aplicación web con IA generativa diseñada para automatizar por completo la creación de cursos y estructurar contenidos académicos, integrando de manera fluida los aplicativos institucionales de SanTIC Education mediante APIs dinámicas.
+      </p>
       <br>
       <div align="center">
-        <a align="center" href="https://github.com/bry5co/ITutiShop" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
-               alt="Repositorio del Proyecto" 
-               style="margin-bottom: 15px;">
+        <span style="background: #23272e; padding: 5px 10px; border-radius: 5px; font-size: 0.85rem;">Node.js</span>
+        <span style="background: #23272e; padding: 5px 10px; border-radius: 5px; font-size: 0.85rem;">Express</span>
+        <span style="background: #23272e; padding: 5px 10px; border-radius: 5px; font-size: 0.85rem;">Prisma</span>
+        <span style="background: #23272e; padding: 5px 10px; border-radius: 5px; font-size: 0.85rem;">Docker</span>
+      </div>
+    </td>
+
+    <!-- Proyecto 2: ITutiShop -->
+    <td style="width: 50%; padding: 20px; background-color: transparent; border: 1px solid #ddd; border-radius: 8px; vertical-align: top;">
+      <h3 align="center" style="color: #2c3e50; font-size: 1.3rem; margin-bottom: 10px;">
+        🛒 ITutiShop
+      </h3>
+      <p align="center" style="margin-bottom: 15px; font-weight: bold; color: #7f8c8d;">
+        <em>Desarrollador Full Stack</em>
+      </p>
+      <p style="text-align: justify; font-size: 0.95rem; line-height: 1.6;">
+        Plataforma de comercio electrónico diseñada para digitalizar la gestión de pequeñas y medianas empresas (PyMEs). Integra herramientas intuitivas para el control de inventarios en tiempo real, procesamiento seguro de transacciones y optimización del flujo de envíos.
+      </p>
+      <div align="center" style="margin-top: 15px;">
+        <a href="https://github.com/bry5co/ITutiShop" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Código_en_GitHub-23272e?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
         </a>
       </div>
-      <p style="text-align: justify; font-size: 1rem; line-height: 1.6; color: #34495e;">
-        iTutiShop es una plataforma de comercio electrónico diseñada para facilitar la compra y venta de productos de manera rápida, segura y eficiente. Su objetivo principal es proporcionar una experiencia de usuario intuitiva y moderna tanto para compradores como para vendedores, integrando herramientas que optimizan el proceso de gestión de inventarios, transacciones y envíos.
-
-La plataforma está dirigida a pequeñas y medianas empresas (PyMEs) que buscan digitalizar sus negocios, así como a consumidores interesados en acceder a una amplia variedad de productos desde la comodidad de sus hogares.
-      </p>
     </td>
   </tr>
 </table>
 
+---
 
-<h2 align="center">Contribuciones en proyectos</h2>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bry5co&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+### 📈 Estadísticas de GitHub
+
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bry5co&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=40" alt="Estadísticas de Bryan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry5co&theme=tokyonight&line_height=40&hide=css" alt="Lenguajes más usados" />
 </div>
 
 <br/>
 
-<h2 align="center">GitHub Statistics 📈</h2>
-  
-<div align="center"> 
-  <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bry5co&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry5co&theme=react&line_height=40&hide=css"/>
-  </a>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bry5co&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribuciones" />
 </div>
