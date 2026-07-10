@@ -3,8 +3,8 @@
 </div>
 
 
-# 👋 Hola, mi nombre es Bryan Obando
-Soy ecuatoriano, tengo 23 años y soy estudiante de la **Universidad Técnica de Ambato**. Estudio en la Facultade **FISEI** Soy graduado de bachiller y próximo ingeniero en software.
+# 👋 Hola, mi nombre es Bryan Ignacio Obando Chavez
+Soy ecuatoriano, tengo 25 años y soy graduado de la **Universidad Técnica de Ambato**, Facultad de la **FISEI** en **Ingeniero en Software**
 # 👋 Perfil en pagina Web:
 https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
 <table>
@@ -16,18 +16,11 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
         <li>Apasionado por la <strong>programación</strong> y el <strong>desarrollo de software</strong>.</li>
         <li>Actualmente me encuentro en la fase de aprendizaje y práctica de tecnologías <strong>web</strong> y <strong>móviles</strong>.</li>
         <li>Me encanta <strong>resolver problemas</strong> y crear soluciones innovadoras para mejorar la <strong>experiencia de usuario</strong>.</li>
-        <li>Soy <strong>Gamer</strong> de <strong>League of Legends</strong> 🎮.</li>
         <li>Una de mis aspiraciones es llegar a <strong>programar para empresas de juegos</strong>.</li>
         <li>Quiero <strong>automatizar todo tipo de procesos</strong> para ayudar a cualquier comunidad.</li>
       </ul>
     </td>
-    <td>
-      <h2>🎧 Reproduciendo en Spotify</h2>
-      <a href="https://open.spotify.com/user/31pjsbyhdgbjxpraym4g53qxlfim?si=3ecd1b01c7774db0">
-        <img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify">
-      </a>
-    </td>
-  </tr>
+    </tr>
 </table>
 
 
@@ -42,8 +35,6 @@ https://ci-jlj830ocl-bryan-obandos-projects-68daab5e.vercel.app/
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,firebase,github,html,java,js,mysql,nodejs,postman,vscode&perline=14" />
   </a>
 </p>
-<br>
-    en todos los campos el conocimiento es Basico ya que me enuentro en proceso de aprendizaje
 
 ## 🎯 Aptitudes:
 - Trabajo en Equipo
